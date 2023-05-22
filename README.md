@@ -1,4 +1,4 @@
-<img align="center" alt="Valentin-Logo" width="700px" src="https://cdn.discordapp.com/attachments/1027286464486191156/1110338238226366514/image.png"/>
+<img align="center" alt="Valentin-Logo" width="1200px" height="300px" src="https://cdn.discordapp.com/attachments/1027286464486191156/1110338238226366514/image.png"/>
 
 #  *Valentin Dumitrache `</>`*
 
