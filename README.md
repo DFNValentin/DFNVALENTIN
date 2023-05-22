@@ -1,5 +1,6 @@
 <!-- Title -->
-[![](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hello+there!;Welcome+to+my+github!;Check+out+my+repo+;Look+at+my+stats+below+%F0%9F%91%87+)](https://itspi3141.github.io)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+there!;Welcome+to+my+github!;Check+out+my+repo!;Look+at+my+stats+below+%F0%9F%91%87)](https://itspi3141.github.io){style="font-family: 'Arial', sans-serif;"}
+
 ---
 
 <!-- Description -->
