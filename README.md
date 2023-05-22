@@ -1,10 +1,9 @@
+<img align="center" alt="Valentin-Logo" width="700px" src="https://cdn.discordapp.com/attachments/1027286464486191156/1110338238226366514/image.png"/>
+
 #  *Valentin Dumitrache `</>`*
 
 
 **`Digital Craftsman (Python/Flutter/Fullstack FE-heavy Developer)`**
-
-<p>I'm an Developer..........................  </p>
-
 
 ---
 
