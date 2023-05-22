@@ -1,6 +1,5 @@
 <!-- Title -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+there!;Welcome+to+my+github!;Check+out+my+repo!;Look+at+my+stats+below+%F0%9F%91%87)](https://itspi3141.github.io){style="font-family: 'Arial', sans-serif;"}
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+mono+nl&weight=600&duration=1000&color=5C9DCC&background=CBFF8500&multiline=true&repeat=false&width=435&lines=Hello+There!;Welcome+to+my+Projects;I+am+Valentin+from+Romania+Front-end+Developer)](https://git.io/typing-svg)
 ---
 
 <!-- Description -->
