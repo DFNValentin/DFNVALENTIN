@@ -1,4 +1,4 @@
-# Valentin <Passion: Coding/> 
+<h1><strong> Valentin </strong></h1>
 
 
-**`Digital Craftsman (Python/Front-end Developer)`**
+**`Digital Craftsman (Python/Flutter/Front-end Developer)`**
