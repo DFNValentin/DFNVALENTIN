@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Python/Flutter/Fullstack FE-heavy Developer)`**
 
-<p>As a Developer, I have a strong combination of technical ability and creativity. I have implemented websites, mobile applications, bots and integrated applications for social media apps 
+<p>Hello there! I'm a self-taught Front-end Developer with the purpose of learning as much as I can to have the ability to provide and help the entire world with technology advancing projects/products. I'm currently working on personal projects.</p>
 
 ---
 
