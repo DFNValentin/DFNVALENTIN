@@ -1,9 +1,11 @@
-<img align="center" alt="Valentin-Logo" width="1200px" height="300px" src="https://cdn.discordapp.com/attachments/1027286464486191156/1110338238226366514/image.png"/>
 
 #  *Valentin Dumitrache `</>`*
 
 
 **`Digital Craftsman (Python/Flutter/Fullstack FE-heavy Developer)`**
+
+![Valentin's Github stats](https://github-readme-stats.vercel.app/api?username=Edi-rgb&show_icons=trust&theme=radical)
+
 
 ---
 
