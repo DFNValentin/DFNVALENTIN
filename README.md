@@ -4,7 +4,7 @@
 
 **`Digital Craftsman (Python/Flutter/Fullstack FE-heavy Developer)`**
 
-<p>As a Developer, I have a strong combination of technical ability and creativity. I have implemented websites, mobile applications, python scripts from concept through deployment, using a responsive, mobile-first approach.</p>
+<p>As a Developer, I have a strong combination of technical ability and creativity. I have implemented websites, mobile applications, bots and integrated applications for social media apps 
 
 ---
 
