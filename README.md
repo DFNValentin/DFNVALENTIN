@@ -4,8 +4,7 @@
 
 **`Digital Craftsman (Python/Flutter/Fullstack FE-heavy Developer)`**
 
-![Valentin's Github stats](https://github-readme-stats.vercel.app/api?username=Edi-rgb&show_icons=trust&theme=radical)
-
+<p>some dummy text bl abla abdjkbds c cha a sa</p>
 
 ---
 
