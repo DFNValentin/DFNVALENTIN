@@ -1,4 +1,4 @@
-<h1><strong style="color:blue;  >Dumitrache Valentin </strong></h1>
+<h1><strong style="color:blue">Dumitrache Valentin </strong></h1>
 
 
 
