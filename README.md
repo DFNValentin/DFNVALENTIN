@@ -3,7 +3,7 @@
 
 **`Digital Craftsman (Python/Flutter/Fullstack FE-heavy Developer)`**
 
-<p>I'm an Developer with </p>
+<p>I'm an Developer  </p>
 
 
 ---
