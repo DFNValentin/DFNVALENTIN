@@ -1,0 +1,39 @@
+html, *{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: #141414;
+}
+
+.card{
+    margin: 10px;
+    color: aliceblue;
+    background-color: #1e1e1e;
+    margin: 15%;
+    border-radius: 20px;
+}
+
+.cardHeader{
+    text-align: center;
+    padding: 20px;
+}
+
+.cardBody{
+    text-align: center;
+    padding: 20px;
+}
+
+.cardFooter{
+    list-style: none;
+    padding: 25px;
+    
+}
+
+a{
+    color: #1598f4;
+    text-decoration: none;
+}
+
+
