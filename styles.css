@@ -11,7 +11,7 @@ body{
     margin: 10px;
     color: aliceblue;
     background-color: #1e1e1e;
-    margin: 15%;
+    margin: 16% 3% ;
     border-radius: 20px;
 }
 
@@ -21,7 +21,6 @@ body{
 }
 
 .cardBody{
-    text-align: center;
     padding: 20px;
 }
 
