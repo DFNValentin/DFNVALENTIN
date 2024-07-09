@@ -11,17 +11,23 @@ body{
     margin: 10px;
     color: aliceblue;
     background-color: #1e1e1e;
-    margin: 16% 3% ;
     border-radius: 20px;
+    
 }
 
 .cardHeader{
     text-align: center;
     padding: 20px;
+    background-color: white;
+    color: #141414;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-size: large;
 }
 
 .cardBody{
     padding: 20px;
+    font-size: medium;
 }
 
 .cardFooter{
@@ -33,6 +39,12 @@ body{
 a{
     color: #1598f4;
     text-decoration: none;
+}
+
+.duckimg{
+    position: fixed;
+    right: 0;
+    bottom: 0;
 }
 
 
